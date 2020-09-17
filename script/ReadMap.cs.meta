@@ -1,0 +1,72 @@
+fileFormatVersion: 2
+guid: cb3a76e95d6387d41b0add9adb789505
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textFile: {fileID: 4900000, guid: 2367e87033d89e244a80416e53c261de, type: 3}
+  - D01: {instanceID: 0}
+  - D03: {instanceID: 0}
+  - D05: {instanceID: 0}
+  - D07: {instanceID: 0}
+  - D09: {instanceID: 0}
+  - D10: {fileID: 7597995086025585777, guid: 07036e65376a5b24b9ce0800e3856ca7, type: 3}
+  - D12: {instanceID: 0}
+  - D14: {instanceID: 0}
+  - D16: {instanceID: 0}
+  - D18: {instanceID: 0}
+  - D110: {instanceID: 0}
+  - D21: {instanceID: 0}
+  - D23: {instanceID: 0}
+  - D25: {instanceID: 0}
+  - D27: {instanceID: 0}
+  - D29: {instanceID: 0}
+  - D30: {instanceID: 0}
+  - D32: {instanceID: 0}
+  - D34: {instanceID: 0}
+  - D36: {instanceID: 0}
+  - D38: {instanceID: 0}
+  - D310: {instanceID: 0}
+  - D41: {instanceID: 0}
+  - D43: {instanceID: 0}
+  - D45: {instanceID: 0}
+  - D47: {instanceID: 0}
+  - D49: {instanceID: 0}
+  - D50: {instanceID: 0}
+  - D52: {instanceID: 0}
+  - D54: {instanceID: 0}
+  - D56: {instanceID: 0}
+  - D58: {instanceID: 0}
+  - D510: {instanceID: 0}
+  - D61: {instanceID: 0}
+  - D63: {instanceID: 0}
+  - D65: {instanceID: 0}
+  - D67: {instanceID: 0}
+  - D69: {instanceID: 0}
+  - D70: {instanceID: 0}
+  - D72: {instanceID: 0}
+  - D74: {instanceID: 0}
+  - D76: {instanceID: 0}
+  - D78: {instanceID: 0}
+  - D710: {instanceID: 0}
+  - D81: {instanceID: 0}
+  - D83: {instanceID: 0}
+  - D85: {instanceID: 0}
+  - D87: {instanceID: 0}
+  - D89: {instanceID: 0}
+  - D90: {instanceID: 0}
+  - D92: {instanceID: 0}
+  - D94: {instanceID: 0}
+  - D96: {instanceID: 0}
+  - D98: {instanceID: 0}
+  - D910: {instanceID: 0}
+  - D101: {instanceID: 0}
+  - D103: {instanceID: 0}
+  - D105: {instanceID: 0}
+  - D107: {instanceID: 0}
+  - D109: {instanceID: 0}
+  executionOrder: 100
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
